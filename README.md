@@ -15,7 +15,7 @@ The architecture roughly works as follows:
 ## Installation
 Prerequisites:
 1. Metacontroller should be installed on Kubernetes
-2. Install Certmanager, Ingress controller and ExternalDNS should be installed if you want to get Ingress working
+2. Certmanager, Ingress controller and ExternalDNS should be installed if you want to get Ingress working
    
 Installation:
 1. Navigate into the operator directory and apply `namespace.yaml` to Kubernetes. 
