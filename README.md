@@ -1,7 +1,7 @@
 # Python Lambda operator
 
 This repo contains a Kubernetes operator built with [Metacontroller](https://github.com/metacontroller/metacontroller).  
-By supplying a Kubernetes manifest of type PythonLambda, the operator will run `n` HTTP servers running that python code.
+By supplying a Kubernetes manifest of type PythonLambda, the operator will run `n` HTTP servers running user-supplied python code.
 It's built for demo purposes only. Do not use in production.
 
 ### Warning
